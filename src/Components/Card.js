@@ -227,6 +227,7 @@ function Card() {
                 <AnimateAnswer />
                 {lost === 'true' ? <YouLost /> : null}
                 <h2 className='score'>Score: {score}</h2>
+                <div className='high-score-display'>High Score: {highScore}</div>
             </>
         );
     }
