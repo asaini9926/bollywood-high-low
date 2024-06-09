@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bollywood-high-low/static/css/main.13aec590.css",
+    "main.js": "/bollywood-high-low/static/js/main.3d8aad81.js",
+    "index.html": "/bollywood-high-low/index.html",
+    "static/media/wrong.svg": "/bollywood-high-low/static/media/wrong.532f186280082428a00c787a5393cca2.svg",
+    "static/media/correct.svg": "/bollywood-high-low/static/media/correct.1160ae1653bcd05b6a7eafe920221172.svg",
+    "main.13aec590.css.map": "/bollywood-high-low/static/css/main.13aec590.css.map",
+    "main.3d8aad81.js.map": "/bollywood-high-low/static/js/main.3d8aad81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13aec590.css",
+    "static/js/main.3d8aad81.js"
+  ]
+}
